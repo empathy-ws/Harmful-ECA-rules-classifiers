@@ -51,6 +51,16 @@ Dataset of manually labeled IFTTT applets.
 #### Number of instances: 
 2473
 
+## Random set:
+Dataset of manually labeled IFTTT applets obtained by randomly selecting applets among those discarded by the ensemble approach (i.e., the applets that obtained conflicting predictions by the three semi-supervised techniques).
+#### Number of instances:
+500
+
+## Subset random set:
+Dataset of manually labeled IFTTT applets obtained by removing the inconsistent applets from the random set.
+#### Number of instances:
+425
+
 # Attribute Information
 
 <table align="center">
