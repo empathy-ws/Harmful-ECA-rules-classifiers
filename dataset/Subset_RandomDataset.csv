@@ -1,0 +1,427 @@
+triggerTitle;triggerChannelTitle;actionTitle;actionChannelTitle;title;desc;target
+New tweet by a specific user;Twitter;Send a notification from the IFTTT app;Notifications;New Tweet By An User Send Me A Notification;New Tweet By A Specific User Send Me A Notification;3
+Any new post;Tumblr;Publish a new post;Sina Weibo;any new post in Tumblr sync to sina weibo;for sync piping;3
+New story published;NPR;Send a notification from the IFTTT app;Notifications;Receive notifications for new NPR Technology stories;Use this Recipe to get notified about technology stories on your Android Device.;0
+Card assigned to me;Trello;Create a card;Trello;Trello shared board to personal board;Just input what boards you want to be used, and the list name, and presto!;0
+You are tagged in a photo;Facebook;Post Message;Skype;You are tagged in a FACEBOOK photo, get a message on Skype #graajkumaar;Trigger service: FACEBOOKYou are tagged in a photo: This Trigger fires every time you are tagged you in a new photo. NOTE: Facebook privacy settings may block IFTTTâs access to some photos you are tagged in.Action service: SKYPEPost Message: This Action will post a message to a Skype conversation.If G.R is tagged in a photo, then post message to 1:1 conversation with IFTTT bot.;3
+Send IFTTT an email tagged;Email;Upload file from URL;Google Drive;Upload a file from a URL to GDrive.;How to:use tag #todrive, your subject will be the name of the file,insert only the url (absolute) on the body of the email;3
+New photo post;Tumblr;Add file from URL;Dropbox;Tumblr image posts to Dropbox;Takes image posts from a Tumblr blog and puts them inside a Dropbox account, within the folder 'Tumblr'.;3
+Any new email in inbox;Gmail;Send me an SMS;SMS;Gmail SMS Notification;Send a message to your cellphone when receiving new e-mails.Made for those who can't reach gmail service.;3
+New SMS received matches search;Android SMS;Set ringtone volume;Android Device;Wheres My Phone #volumeup;Type #volumeup to allow notification messages to be loud so you can find your phone.;3
+New link post with hashtag on page;Facebook Pages;Add row to spreadsheet;Google Drive;If link post with hashtag to Facebook page, then post to spreadsheet in Google Drive;Created this to collect posts by multiple people on Facebook that then need to be tracked by admins and copied over to a database.;3
+New post from search;Classifieds;Send an email;Gmail;If new post from search Search URL, then send an email from jialao@nyctcm.edu;To find an Acupuncturist position.;3
+New item from search;eBay;Add row to spreadsheet;Google Drive;eBay Search;Add a row on a specified Google Drive spreadsheet when a new item from eBay search gets listed.;3
+Any new visit;DocSend;Send a notification from the IFTTT app;Notifications;Get a notification when you get a new document visit;Stay on top of all your DocSend visits by getting a push notification each time you get a new visit.;3
+Any new email in inbox;Gmail;Create task;Todoist;gmail Inbox to Doist Inbox;No filter Apply. all the mail that arrive to you Gmai Inbox. will go to your Doist Inbox;3
+Receive a web request;Maker Webhooks;Send a notification from the IFTTT app;Notifications;Send Notify on Vibration;Vibrate when mail is delivered.;3
+Any incoming call;Ooma;Send a notification from the IFTTT app;Notifications;miss called;missed call;3
+New tweet by anyone in area;Twitter;Send me an email;Email;Send tweets in specific area by mail;"Sends tweets in specific area by mail. Caution: In areas with many tweets you'll get many mails. In this case better choose ""Email Digest""";3
+Any phone call answered;Android Phone Call;Quick add event;Google Calendar;Received calls logged on Google calendar;When you receive a call, an event is created logging the date and time of the call along with the caller's ID and phone number.;3
+New email in inbox labeled;Gmail;Upload file from URL;Google Drive;File Gmail Attachments to Google Drive from Labelled Emails;File Gmail Attachments to Google Drive from Labelled Emails;3
+Any new SMS received;Android SMS;Send an email;Gmail;email received SMS;Send an email with the sms received to inform another person or to have it archived.;3
+New mention of you;Twitter;Add row to spreadsheet;Google Drive;Mention on Twitter Add username to google sheet;If new mention of @username, then add row to spreadsheet in Google Drive;3
+New follower;Twitter;Add row to spreadsheet;Google Drive;New Follower in Google Spreadsheet;It's just to record your followers in Twitter;3
+Any new attachment in inbox;Gmail;Append to a text file;Dropbox;Emailed attachments sent to Dropbox;When emailed attachments they are automatically saved in your Dropbox;3
+Any phone call placed;Android Phone Call;Add row to spreadsheet;Google Drive;If any phone call placed, then add row to spreadsheet in Google Drive;Now, it is easy to see your phone call history even if you have deleted it from your phone;3
+You are tagged in a photo;Facebook;Upload a photo from URL;Facebook;Saves Tagged Photos;Sadness tagged photos from friends on Facebook.;3
+You are tagged in a photo;Facebook;Add file from URL;Dropbox;New photo's of you synced to dropbox;Just choose the folder of your choice in dropbox to have the photos stored.;3
+Motion has been detected;Withings Home;Send a notification from the IFTTT app;Notifications;Receive a notification if motion is detected;Make sure you're kept in the know if any motion is detected by your Withings Home - receive a notification directly to your phone if it notices anything.;3
+New SMS received matches search;Android SMS;Set ringtone volume;Android Device;#Unmute phone via #SMS;"When you receive a text with the default keyword ""*unmute"" your phone's volume will increase to 100%. It works great when you're looking for your lost phone!";3
+You are tagged in a photo;Facebook;Add file from URL;OneDrive;If I am tagged in a photo on Facebook then upload the photo to my OneDrive account;This works great for viewing your tagged photos on your phone, PC, tablet, and even Xbox.;3
+Any new email in inbox;Gmail;Send me an SMS;SMS;any email to sms;send the address & body plain of an email to sms;3
+Any new attachment in inbox;Gmail;Upload file from URL;Google Drive;Save new email attachments to your google drive;Makes it easy to find contracts/flyers/POF/Pre-approval letters/ etc. RealAgentEastBay.com;3
+Any phone call missed;Android Phone Call;Quick add event;Google Calendar;Missed call logs to google calender;Missed call logs to google calender;3
+New photo in your folder;Dropbox;Send me an email;Email;Email me new photo uploads;Get an email notification when there's a new Dropbox photo uploaded on a specific folder.;3
+You are tagged in a photo;Facebook;Upload file from URL;Google Drive;Own your pictures! Save Facebook photos you were tagged in to your Gdrive!;If I get tagged on a photo in facebook, upload it to my google drive so it will never go away;3
+Any new note;Note widget;Create a photo post;Tumblr;Create Tumblr photo post with map of your location;This Applet will publish the post privately.;2
+You enter an area;Location;Disarm the security panel;HomeControl Flex;Disarm your system when you arrive home;Automatically disarm your security system as you approach your house. For best results the radius of the area you select is a little larger than the area immediately around your home.;2
+Sleep mode enabled;UP by Jawbone;Turn off lights;Philips Hue;Lights off when u go to sleep;Turn off hue lights when you go to sleep;2
+New photo added;Seagate Personal Cloud;Send notification;Comcast Labs;Notify me on my TV when new photos are added to my Seagate Personal Cloud;When new photos are added to a folder on Seagate Personal Cloud, this recipe will notify you on your TV via Comcast's X1 DVR.  Keep watching your show with the peace of mind that your photos are backed up.;2
+New check-in tagged;Foursquare;Send an email;Gmail;Let your '1.5 family' know where you are when you check-in;Your parents have an smartphone but only use email because they 'reject all this new stuff'? Let them know where you are just tagging your check-ins.;2
+New photo taken in area;iOS Photos;Upload file from URL;Google Drive;Upload iOS photo in location to google drive folder;This allows you to trigger photos to upload to a folder in your google drive when you are in a location specified.;2
+New feed item matches;RSS Feed;Change color;Philips Hue;If Ice Storm Warning issued for Cleveland County/OKC, OK, change light color to Dark Magenta.;Insert your county code in the URL string. Dark Magenta is the color used in all the NWS graphical products for an Ice Storm Warning.;2
+Send IFTTT an SMS tagged;SMS;Turn on;WeMo Light Switch;SMS a tag to IFTTT/WeMo to turn lights on;"I have my WeMo light switch on my Front Door, it's already on sunset->on, sunrise->off timing. But I wanted to test using IFTTT and sending an sms through siri. I also wanted to be able to text different signals to different switches. It's a little redundant with the WeMo app, but pretty cool, nevertheless. I also found out that Siri will recognize ""hashtag"" to put a # in front of a word. Sending ""#sunset"" turns the lights on. Separate Applet ""#sunrise"" turns the lights off.";2
+Ignition turned on in area;Automatic Classic;Turn off;WeMo Light Switch;Turn off car, turn on lights;Using automatic app and wemo light switch. Allows me to have the lights turn on in my hallway and bedroom when I come back home;2
+New feed item;RSS Feed;Blink lights;Philips Hue;Flash Hue Lights When a Weather Alert From NOAA is Received;If NOAA publishes an alert for your area (for severe weather, for example) your Hue lights will flash to warn you.;2
+Sleep mode enabled;UP by Jawbone;Turn off lights;Philips Hue;Turn off your HUE lights when you put your UP24 in sleep mode.;Hop into bed. Set UP24 to sleep mode and it will turn off your hue lights. Bluetooth has to be enabled so that the bracelet will send the update to the UP app.;2
+New tweet by anyone in area;Twitter;Change color;Philips Hue;Nearby tweets turn Hue blue;"If someone tweets near your location, your Philips Hue turns ""twitter blue.""";2
+You enter an area;Location;Create a status message;Facebook;If location post to Facebook;If I enter a certain area, post promotional Facebook status.;2
+New motion event;Nest Cam;Blink lights;LIFX;When motion is detected, blink LIFX lights red;Scare off any intruders by blinking your LIFX lights when your Nest Cam detects motion.;2
+Ignition turned on in area;Automatic Classic;Post to channel;Slack;Post to Slack when I leave work;Choose an area where you usually park near work.  Put your name in the message field if you want to identify who you are.;2
+New email in inbox from search;Gmail;Switch off;SmartThings;Turn off lights when alarm is turned on;Using Simplisafe messaging, turn off SmartThings devices when alarm is turned on.;2
+Opening detected;Worldwide Interactive Alarm;Blink lights;Philips Hue;Philips Hue lights will blink when WWAlarm detects intrusion;Your Philips Hue lights will blink when WWAlarm detects an intrusion while your system is armed or armed in stay mode.;2
+Any new event added;Google Calendar;Send notification;Comcast Labs;X1 popup message on all TV screens when your Google Calendar is updated;Receive a popup message alert on your X1 connected TVs when your Google Calendar has a new entry added.;2
+New feed item;RSS Feed;Create a status message;Facebook;RSS to FB;RSS to FB;1
+New public video uploaded by you;YouTube;Save for later;Pocket;YT to Pocket;YT to Pocket;1
+New feed item;RSS Feed;Create a post;WordPress;StoreBlog to Wordpress;StoreBlog to Wordpress;1
+New tweet by you;Twitter;Create a status message;Facebook;Twitter Status to Facebook Status Update;It will update Facebook status by tweeting or replies on the twitter post.;1
+New public video uploaded by you;YouTube;Add a bitlink;bitly;YT to Bitly;YT to Bitly;1
+New feed item;RSS Feed;Post a tweet with image;Twitter;Tweet the Daily Word;Take the RSS feed from the daily word and tweet updates.;1
+New public video uploaded by you;YouTube;Add to Buffer;Buffer;YT to G+ Page via Buffer;YT to G+ Page via Buffer;1
+New public video uploaded by you;YouTube;Save item;Instapaper;YT to Instapaper;YouTube upload add link to Instapaper;1
+New feed item matches;RSS Feed;Save item;Instapaper;Google News(CricketWireless) > Instapaper;"Saves tech news with the keyword ""cricketwireless"" to your Instapaper.";0
+New feed item;RSS Feed;Add Pin to board;Pinterest;RSS to Pinterest;RSS to Pinterest;0
+New tweet by you with hashtag;Twitter;Create a text post;Tumblr;Twitter To Tumblr;Twitter To Tumblr;1
+New public video uploaded by you;YouTube;Add a bitlink;bitly;YT to Bitly;YT to Bitly;1
+New feed item;RSS Feed;Create a text post;Tumblr;Rss to Tumblr;Rss to Tumblr;1
+Top App gone free in the Apple App Store;AppZapp;Create a status message;Facebook Pages;IF THIS (Top App gone free in the Apple App Store), THEN THAT (Create a status message on FB Page);Trigger Channel: AppZappTop App gone free in the Apple App Store: This Trigger fires every time a top rated App has gone free in the Apple App Store.Action Channel: Facebook PagesCreate a status message: This Action will create a new plain text status message on your Facebook Page.If top App gone free in the Apple App Store, then create a status message on MyAppsEden.;1
+New public video uploaded by you;YouTube;Save item;Instapaper;YT to Instapaper;YouTube upload add link to Instapaper;1
+New feed item;RSS Feed;Create a post;WordPress;RSS to WP;RSS to WP;1
+New public video uploaded by you;YouTube;Create a post;Blogger;Youtube to Blogger;Youtube to Blogger;1
+New liked tweet by you;Twitter;Save for later;Pocket;IFTTT recipe. Save favourited tweet URLs to Pocket.;IFTTT recipe. Save favourited tweet URLs to Pocket.;1
+New public video uploaded by you;YouTube;Create a text post;Tumblr;You Tube upload to Tumblir text post;You Tube upload send a text post to Tumblr;1
+Any new photo by you;Instagram;Blink lights;LIFX;If posted a new photo, blink lights.;Enjoy a light show when posting a picture;1
+New public video uploaded by you;YouTube;Add a bitlink;bitly;YT to Bit.ly;YouTube uploaded video post to Bitly;1
+New event published;Particle;Send me an email;Email;Send an email in response to an event;Useful to send an email in response to a event from a Particle device.;0
+New video by you with specific hashtag;Instagram;Send an email;Gmail;Instgram video (tagged) to Tumblr via email;This works well when you have multiple tumblr blogs to send to one of them via email.;1
+New tweet by you;Twitter;Share an update;LinkedIn;Twitter to LinkedIn;share stories;1
+Any new post;WordPress;Create a post;Blogger;Auto Wordpress to Blogspot;Auto Wordpress to Blogspot;1
+New feed item;RSS Feed;Post a tweet;Twitter;RSS to Twitter;New feed item rss to Twitter;1
+New public video uploaded by you;YouTube;Create a link note;Evernote;YT to Evernote;YouTube upload post video to Evernote;1
+New feed item;RSS Feed;Post a tweet;Twitter;Feed to twitter;Feed to twitter;1
+New public video uploaded by you;YouTube;Create a text post;Tumblr;Youtube to Tumblr Text;Youtube to Tumblr Text;1
+New photo upload on page;Facebook Pages;Post a tweet with image;Twitter;facebook image to twitter image;Fanpage Image publish into twitter image;1
+New feed item;RSS Feed;Post a tweet;Twitter;RSS to Twitter;New feed item post a tweet;1
+New public video uploaded by you;YouTube;Save for later;Pocket;YT to Pocket;Youtube upload add link to Pocket;1
+New feed item;RSS Feed;Save item;Instapaper;"Feed post to	Instapaper";"Feed post to	Instapaper";0
+Every day of the week at;Date & Time;Send a notification from the IFTTT app;Notifications;Wake up at 7am you awesome;This will wake you up with the confidence you need. you awesome. PS.: Just for awesome people;0
+New feed item;RSS Feed;Create a post;WordPress;Feed to wordpress;Feed to wordpress;1
+New feed item;RSS Feed;Upload photo from URL;500px;RSS to 500px;RSS to 500px;1
+New feed item;RSS Feed;Create a text post;Tumblr;RSS to Tumblr;RSS to Tumblr;1
+Any new public bookmark;Delicious;Post a tweet;Twitter;Adal Paredes Blog Delicious to Twitter;Upload Adal Paredes Blog Delicious to Twitter;1
+New public video uploaded by you;YouTube;Create a link post;Facebook Pages;Youtube To FB;YouTube To FB;1
+Any new photo by you;Instagram;Upload public photo from URL;Flickr;Insta to flickr;Insta to flickr;1
+New feed item;RSS Feed;Post a tweet with image;Twitter;RSS To Twitter;If new feed item from http://www.rainycitynights.com/feed, then post a tweet with image to @constan13405933;1
+New follower;Twitter;Post a tweet with image;Twitter;thank you a follower by a tweet with an image;thank you a follower by a tweet with an image;1
+New feed item;RSS Feed;Add to Buffer;Buffer;RSS to Buffer URL Only;RSS to Buffer URL Only;0
+Any new photo by you;Instagram;Post a tweet with image;Twitter;Post Instagram pics in twitter as a picture - not link;Post Instagram pics in twitter as a picture - not link;1
+New feed item;RSS Feed;Post a tweet;Twitter;RSS to Twitter;New feed item post to Twitter;1
+New public video uploaded by you;YouTube;Save for later;Pocket;YT To Pocket;YT To Pocket;1
+New video uploaded;Vimeo;Post a tweet;Twitter;Vimeo to Twitter;Vimeo to Twitter;1
+Any new post;WordPress;Create a post;Blogger;wd press to blogger;visit more products related to this Itemshttps://goo.gl/aq34od;1
+New feed item;RSS Feed;Post a tweet;Twitter;RSS to Twitter;RSS to Twitter;1
+New feed item;RSS Feed;Create a text post;Tumblr;RSS to Tumblr;RSS to Tumblr;1
+New public video uploaded by you;YouTube;Create a link post;Facebook Pages;YT to FB Page;YT to FB Page;1
+New feed item;RSS Feed;Create a post;WordPress;RSS to WordPress;New feed item post to WordPress;1
+New liked tweet by you;Twitter;Add to Buffer;Buffer;Twitter (Android) to Buffer;Favoriting a tweet sends it to your buffer queue;1
+New link by you;Twitter;Add to Buffer;Buffer;Twitter to Buffer;Twitter to Buffer;1
+New feed item;RSS Feed;Add to Buffer;Buffer;RSS to Buffer URL Only;RSS to Buffer URL Only;0
+New feed item;RSS Feed;Create a post;WordPress;RSS to Wordpress;RSS to Wordpress;1
+Any new photo by you;Instagram;Post a tweet with image;Twitter;MPLG Instagram to Twitter;Post from instagram to twitter.;1
+New public video uploaded by you;YouTube;Save for later;Pocket;YT to Pocket;YouTube upload add link to Pocket;1
+Any event starts;Google Calendar;Upload a photo from URL;Facebook Pages;Calendar photo and description to Facebook page;add photo to event location and enter text in descripton;1
+New public video uploaded by you;YouTube;Add a bitlink;bitly;YT to Bit.ly;YouTube upload post public bitmark;1
+New feed item;RSS Feed;Post a tweet with image;Twitter;RSS To Twitter With Image;RSS To Twitter With Image;1
+New feed item;RSS Feed;Create a post;WordPress;Website via RSS to WP;Website via RSS to WP;1
+Any new photo by you;Instagram;Share a link;LinkedIn;Instagram to LinkedIn with embedded photo.;Uses the 'share a link' option, to ensure you always get your Instagram image embedded in your LinkedIn update.;1
+New public video uploaded by you;YouTube;Add a bitlink;bitly;YT To Bitly;YT To Bitly;1
+New public like;SoundCloud;Create an audio post from URL;Tumblr;Soundcloud Like to Tumblr Post;Every soundcloud like is a tumblr audio post!;1
+New public video uploaded by you;YouTube;Save item;Instapaper;YT to Instapaper;YT will save a new item to Instapaper;1
+Any new public photo by you;500px;Upload public photo from URL;Flickr;Publish any photo added to 500px to Flickr;Publish any photo added to 500px to Flickr;1
+New feed item;RSS Feed;Publish blog post;Weebly;RSS to Weebly;RSS to Weebly;1
+New feed item;RSS Feed;Post a tweet with image;Twitter;Automatically Post to twitter;IF Any new post published on EUK Blog, tweet;1
+Any new post;Tumblr;Create a text file;Box;Tumblr to Box;Tumblr post to Box;1
+New feed item;RSS Feed;Add to Buffer;Buffer;RSS to GPlus;New feed items post to Google Plus page via Buffer;0
+New feed item;RSS Feed;Create a link post;Facebook;Rss Home 2 FB;If new feed item from http://feed43.com/musictazz_home.xml, then create a link post on Kam MusicTazzâs timeline;1
+Every day of the week at;Date & Time;Post a tweet;Twitter;The Friday Updater;If its friday, your Twitter Account will automaticly Send Message.Cmon !, Show the Spirit for Friday !TGIF, Right ?;1
+New feed item;RSS Feed;Add to Buffer;Buffer;RSS to GPlus;New feed items post to GPlus;0
+Any new photo by you;Instagram;Post a tweet with image;Twitter;Post Instagram pictures as native Twitter pictures.;Post to Instagram, without sharing on Twitter within the app, and this recipe will send it to Twitter for you. It also fixes the issue with mentions when the Instagram and Twitter names are different.;1
+New public video uploaded by you;YouTube;Create a document;Google Drive;YT to GDrive;YouTube Upload text doc and add to G. Drive;1
+New public video uploaded by you;YouTube;Create a video post;Tumblr;YT To Tumblr-Video;YT To Tumblr-Video;1
+You like a Pin;Pinterest;Post a tweet;Twitter;Pinterest to Twitter;Send pins to Twitter;1
+New feed item;RSS Feed;Send an email;Gmail;RSS TO GMAIL;Every time a RSS feed, then an email is sent.;1
+New feed item;RSS Feed;Add Pin to board;Pinterest;Feed To Pinterest;Feed To Pinterest;0
+New public video uploaded by you;YouTube;Post a tweet;Twitter;YT to Twitter;YT to Twitter;1
+New feed item;RSS Feed;Create a post;WordPress;RSS to WP;RSS to WP;1
+New feed item;RSS Feed;Create a text post;Tumblr;RSS to Tumblr;New feed items post to Tumblr;1
+New public video uploaded by you;YouTube;Add a public bookmark;Delicious;YT to Delicious;YouTube uploaded video post to Delicious;1
+New feed item;Feed;Post a tweet with image;Twitter;Digital FeedMe - Share on Twitter;"Recipe to have your personal FeedMe-feed published on Twitter.
+Please follow the instructions to activate this recipe.";1
+New feed item;RSS Feed;Create a text post;Tumblr;Rss to Tumblr;Rss to Tumblr;1
+New feed item;RSS Feed;Create a status message;Facebook;RSS to Facebook;RSS to Facebook;1
+New feed item;RSS Feed;Create a link post;Facebook Pages;Squarespace post to new post on Facebook Pages;"If you are using Squarespace for blogging, use your custom or squarespace domain and blog page with the ending ""?format=rss"". (e.g., www.YOUR-WEBSITE.squarespace.com/YOUR-BLOG?format=rss)";1
+New email in inbox from search;Gmail;Add row to spreadsheet;Google Drive;Sandler Lessons Learned;"This reciepe came from collecting ""Lessons Learned"" from our training class and combining them into a report that we can show managers what their people are learning. It takes any email sent to you with the word ""Learned"" in the subject line and adds to an existing spreadsheet the comments from the body of the text.  You can then easily ask the class to email you their lessons learned and you have a summary of their learning.";1
+New feed item;RSS Feed;Create a text post;Tumblr;RSS Feed to Tumblr (T2 a);RSS Feed to Tumblr (T2 a);1
+New feed item;RSS Feed;Add row to spreadsheet;Google Drive;Add Google Alert (RSS) item to Google sheet;Adds Council Tax news items to Google sheet;0
+New feed item;RSS Feed;Post a tweet;Twitter;RSS to Twitter;RSS to Twitter;1
+New tweet by you;Twitter;Create a text post;Tumblr;Twitter to Tumblr;Add New Twitter to Tumblr;1
+Any new public photo;Flickr;Save item;Instapaper;flickr to Instapaper;flickr to Instapaper;1
+New status message on page;Facebook Pages;Create a status message;Facebook;Facebook Page Update to Personal Facebook Profile;Sandra - the ITTT Applet I emailed you about;1
+New feed item;RSS Feed;Post a tweet;Twitter;RSS Feed to Twitter T3(a3);RSS Feed to Twitter T3(a3);1
+New feed item;RSS Feed;Create a link post;Facebook Pages;Merc RSS to page;For sharing news from The Manhattan Mercury to a Facebook page.;1
+New photo added to album;iOS Photos;Add file from URL;Dropbox;Upload your High-Resolution Instagram photos to Dropbox!);Upload your newly added Instagram photos from iOS Photos/Instagram, not via web which means low resolution-copys of your photos!;1
+New follower;Twitter;Post a tweet;Twitter;New follower tweet thankyou;Thanks new followers for following you;1
+New link post on page;Facebook Pages;Create a document;Google Drive;FBPage to GDrive;FBPage to GDrive: IFTTT FBPage Syndication System (Link Post);1
+New feed item;RSS Feed;Add to Buffer;Buffer;rss to buffer URL only;New feed item posted to Buffer;1
+New liked tweet by you;Twitter;Save for later;Pocket;Add a card in Pocket when favorite a tweet.;When you favorite a tweet it will add to your pocket list.;1
+New liked video;YouTube;Save for later;Pocket;YouTube LIKE to Pocket;YouTube LIKE to Pocket;1
+New public video uploaded by you;YouTube;Post a tweet;Twitter;YouTube to Twitter;YouTube upload post video URL to Twitter;1
+New public video uploaded by you;YouTube;Add Pin to board;Pinterest;youtube to pinterest;youtube to pinterest;1
+New public video uploaded by you;YouTube;Save item;Instapaper;If YouTube then InstaPaper;If YouTube then Evernote;1
+New feed item;RSS Feed;Create an issue;GitHub;RSS to GitHub;RSS to GitHub;1
+New feed item;RSS Feed;Publish blog post;Weebly;Feed to Weebly;Feed to Weebly;1
+Daily activity summary;Fitbit;Create a status message;Facebook;Fitbit Summary and Support;This recipe will give a summary of your day's progress, and ask friends and family to support you to reach your goal everyday.;1
+New link post on page;Facebook Pages;Post a tweet with image;Twitter;Facebook to Twitter;add facebook posts publish twitter posts;1
+New feed item;RSS Feed;Post a tweet;Twitter;RSS to Twitter;RSS to Twitter;1
+New feed item;RSS Feed;Post a tweet;Twitter;Rss to Twitter;Rss to Twitter;1
+New liked video;YouTube;Save item;Instapaper;Youtube to Instapaper;YT to Instapaper;1
+New public video uploaded by you;YouTube;Save item;Instapaper;YT to Instapaper;YT to Instapaper;1
+New feed item;RSS Feed;Save item;Instapaper;RSS to Instapaper;New feed items post to Instapaper;0
+New feed item;RSS Feed;Create a status message;Facebook Pages;RSS to Facebook Page;RSS to Facebook Page;1
+New public video uploaded by you;YouTube;Create a link post;Facebook Pages;RIF to My Business Page FB;Sharing my YT videos, on FB Business page;1
+New photo by you with specific hashtag;Instagram;Post a tweet with image;Twitter;Tweet my tagged instagram posts;Automatically tweet your instagrams that has a special tag;1
+Any new photo by you;Instagram;Upload public photo from URL;Flickr;Instagram to Flickr;Send your Instagram images straight to Flickr automatically;1
+Any new event added;Google Calendar;Post a tweet;Twitter;Tweet any new Google Calendar event;Add any additional text or ingredient to the action, i.e. your twitter address;1
+New tweet by you;Twitter;Share an update;LinkedIn;Post all of your Tweets to LinkedIn;The content of every Tweet you post will be automatically posted to LinkedIn as a status update.;1
+Any new photo by you;Instagram;Post a tweet with image;Twitter;If an Instagram picture is posted, then post it on Twitter;This makes pictures clickable again from the Twitter timeline;1
+New tweet by you with hashtag;Twitter;Create a status message;Facebook Pages;Automatically post your Tweets to Facebook page when you include a specific hashtag;Post your tweets to your Facebook page when you include specific hashtag;1
+New status message on page;Facebook Pages;Post a tweet;Twitter;fb page to twitter;fb page to twitter;1
+New screenshot;iOS Photos;Create a note;Evernote;Screenshot upload to Evernote / #GTD #TSW #productivity;Any new screenshot is uploaded to Evernote for review;1
+New photo by you with specific hashtag;Instagram;Post a tweet with image;Twitter;If tag Instagram picture with #. then post picture to Twitter and hide tag;The goal is to post a picture to twitter using a hashtag that wont be seen on twitter.;1
+Any new public photo by you;500px;Post a tweet with image;Twitter;Tweet your new photo on 500px.;Tweet about your new photo upload on 500px.;1
+Any new post;Tumblr;Post a tweet with image;Twitter;if new tumblr post, tweet photo;i use this to keep my twitter up to date with my tumblr https://twitter.com/SpectateIFTTT;1
+New status message by you;Facebook;Create a post;Blogger;If new status message by Facebook, then create a post on your Blogger blog.;If new status message by Facebook, then create a post on your Blogger blog.;1
+New photo post;Tumblr;Upload a photo from URL;Facebook Pages;Tumblr photo post appears as photo post on Facebook business page;type in the name of the photo album you want your pics to appear in;1
+Any new public photo by you;500px;Post a tweet with image;Twitter;Post in a tweet every image you upload on 500px.;If any new public photo is uploaded on your 500px photo stream, then post a tweet with that image to your Twitter profile.;1
+Any new photo;Android Photos;Upload file from URL;Google Drive;Backup Android photos to Google drive;Your device must be connected to your google drive account.;1
+New tweet by you;Twitter;Create a link post;Facebook Pages;Twitter to FB;Twitter to FB;1
+New photo post by you;Facebook;Post a tweet with image;Twitter;When photo uploaded on #Facebook, you post a tweet with image on #Twitter;When photo uploaded on #Facebook, you post a tweet with image on #Twitter;1
+Any new photo;Android Photos;Update device wallpaper;Android Device;New image then wallpaper;Save an image and automatically set it as wallpaper;1
+Any new photo;Camera widget;Upload a photo from URL;Facebook Pages;Post photos to your Facebook Page;Share a photo to all your Facebook Page fans!;1
+New photo upload with hashtag on page;Facebook Pages;Create a photo post;WordPress;If new photo upload with hashtag #xxx on Facebook Page, then create a photo post on your Wordpress;If new photo upload with hashtag #hazawanidotcom on SOHO Mumpreneur Hazawani Halin, then create a photo post on your blog;1
+New status message on page;Facebook Pages;Post a tweet;Twitter;FB to Twitter;FB to Twitter;1
+New video by you with specific hashtag;Instagram;Upload a photo from URL;Facebook;Instagram to Facebook;Visit our www.butikdelimamoda.com.my for more products.;1
+New tweet by you;Twitter;Share an update;LinkedIn;Tweets to Linkedin Updates;Tweets to Linkedin Updates;1
+New photo post by you;Facebook;Add file from URL;Dropbox;Save photos from Facebook to Dropbox;Just launched it and hit the button.;1
+New photo post by you with hashtag;Facebook;Post a tweet with image;Twitter;if FB Pic then Tweet;Include #StChristopherMT;1
+Any new photo by you;Instagram;Post a tweet with image;Twitter;Post image from Instagram to Twitter;Post the actual image rather than the instagram link;1
+New public video uploaded by you;YouTube;Create a link post;Facebook;Post #YouTube video uploads to #Facebook;"Normally, YouTube video posts would be relegated to the ""Recent Activity"" box on your profile. This posts them just like any other video link on Facebook.";1
+Any new post;WordPress;Post a tweet with image;Twitter;Adding a new post on WordPress will update a post on twitter.;If post on WorPress, then share it on Twitter;1
+New feed item;RSS Feed;Send a notification from the IFTTT app;Notifications;Certificate Transparency iOS Notifications;"Monitor your SSL Certificates using cert.sh and an iPhone. ** Change ""linickx"" for your domain name. ** Replace %25 with .com if you just want to check a single TLD, instead of all.";0
+New feed item;RSS Feed;Add a public bookmark;Delicious;RSS to Delicious;New post feed to Delicious;0
+Any event starts;Google Calendar;Call my phone;Phone Call (US only);Phone call from Calendar Event (Automated morning alarm);I put the quote in to make it last longer...;0
+Card added to list;Trello;Post to channel;Slack;Notify Gerard when a card is moved to be approved;Notify Gerard when a card is moved to be approved;0
+New feed item matches;RSS Feed;Send a notification from the IFTTT app;Notifications;Sydney Trackwork reminder;If trackwork is there in Sydney train networks, this Applet will give a notification to iOS devices.;0
+New feed item;RSS Feed;Save for later;Pocket;RSS to Pocket;New feed item post add new item to Pocket;0
+Every year on;Date & Time;Send me an email;Email;Remind me of Ice Cube's National Good Day Day;The ONLY day where: Yo MTV Raps was on air, it was a clear and smogless day, beepers were commercially sold, the Lakers beat the SuperSonics, and Ice Cube had no events to attend was January 20th, 1992...National Good Day Day. (http://murkavenue.tumblr.com/post/16553509655/i-found-ice-cubes-good-day);0
+New feed item;RSS Feed;Save for later;Pocket;Add new items from an RSS Feed to Pocket;Change atomicshed to your username in the rss feed urlOr replace the entire URL to another rss feedChange tags as you wish;0
+New feed item;RSS Feed;Save for later;Pocket;WIRED Product Reviews delivered to Pocket;This Applet uses Wired RSS Feeds to deliver the latest Product Reviews: http://bit.ly/WiredRSS;0
+Any new check-in;Foursquare;Append to note;Evernote;Add Foursquare Check-ins to the Captain's Log;"This Recipe is part of a suite of Recipes that pull your content from social media, blogs, check-ins, completed tasks, and even the weather in real time to construct a ""Captain's Log"" note in your #Evernote account.";0
+New feed item;RSS Feed;Save for later;Pocket;Rss to Pocket;New feed item updated in Pocket;0
+Say a specific phrase;Amazon Alexa;Create a note;Evernote;Echonote;publish notes you speak into your amazon echo into your evernote notebooks.;0
+New feed item;RSS Feed;Create a link note;Evernote;RSS Feed to Evernote;If new feed item from RSS feed/, then Create a link note in Evernote;0
+New feed item;RSS Feed;Save for later;Pocket;When SciShow posts a video to YouTube, send it to Pocket.;When SciShow posts a video to YouTube, send it to Pocket.;0
+New feed item;RSS Feed;Add a public bookmark;Delicious;RSS To Delicious;RSS To Delicious;0
+Any new item;Pocket;Create a note;Evernote;New Pocket Item to Evernote;save your new pocket items to a notebook in evernote!;0
+New email in inbox labeled;Gmail;Send a notification from the IFTTT app;Notifications;Notify when guardian portal is under attack #ingress;"To use this recipe create a rule in gmail that matches the name of your guardian portal and adds the label ""ingress-guardian""";0
+Steps above;UP by Jawbone;Send me an SMS;SMS;Text Progress;text me when I reach 25K steps;0
+New feed item;RSS Feed;Save for later;Pocket;RSS to Pocket;New feed item add link to Pocket;0
+Send IFTTT an email tagged;Email;Append to a text file;Dropbox;Add my random thoughts to my To Do list;This recipe combined with IFTTT's Do Note app makes for an effective way to manage ADHD forgetfulness! Think of something, add it to your list, and move on.;0
+New reminder added to list;iOS Reminders;Add datapoint;Beeminder;Update a Beeminder goal every time a new item is added to a Reminders list;"Increments a goal by 1 (or another amount you specify) every time an item is added to a specified iOS Reminders list. Works with items added elsewhere and synced with iCloud to your iOS device; items added then marked complete still count too. Works best with Do More goals. Probably.";0
+Sleep mode enabled;UP by Jawbone;Mute ringtone;Android Device;Mute the phone while you're sleeping;On Lollipop it will turn your phone to Priority Interruption instead. Doesn't support nap.;0
+Every day at;Date & Time;Send a notification from the IFTTT app;Notifications;Remind self to sleep at a certain time;Just change time;0
+Any new note;Note widget;Post a tweet;Twitter;Post a quick tweet;A minimalist, no-nonsense, no-distractions approach to tweeting. Just type what you want, tap the DO Button, and get on your way.;0
+New email in inbox from search;Gmail;Send an email;Gmail;Email me for presenatation;I share my email and a subject with conferences goers. If they send me an email, this Applet will send the the slide deck and other infomation automatically.;0
+Every hour at;Date & Time;Update device wallpaper;Android Device;Wallpaper with the infrared image from Himawari-8 (4);If every hour at 45 minutes past the hour, then update device wallpaper with the far-east area infrared image from Himawari-8.;0
+New post from search;reddit;Send me an email;Email;If a new community read starts on /r/letsreadabook, send me an email.;Just a reminder system for our community reading subreddit.;0
+New feed item;RSS Feed;Send me an email;Email;New XKCD with Explanations!;"Do you love XKCD and hate to miss new comics?  Do you find that sometimes you just don't get the jokes?  This Applet will embed the latest XKCD right into an email sent to your inbox, and will provide a link to ""explainXKCD"" if you get confused.";0
+New feed item;RSS Feed;Add a public bookmark;Diigo;Main Webite RSS to Diigo;New feed items post to Diigo;0
+New liked video;YouTube;Create a note;Evernote;YT to Evernote;YT to Evernote;0
+New feed item;RSS Feed;Add a public bookmark;Delicious;RSS Feed to Delicious T2(a3);RSS Feed to Delicious T2(a3);0
+You enter an area;Location;Send me an SMS;SMS;Remind yourself to eat at that amazing spot next time you're in the area;I use this to remind myself to eat at my fav submarine spot in San Francisco: http://ift.tt/1kw3xxn;0
+Every day of the week at;Date & Time;Send a notification from the IFTTT app;Notifications;Recurring Android Notification Reminder;Get reminded about some recurring task on your Android device.;0
+Astronomy picture of the day by NASA;Space;Upload file from URL;Google Drive;Upload APOD to my Google Drive;Get the image of the day to your google drive;0
+Every day at;Date & Time;Arm location;Homeboy;Arm Homeboy Every Day at...;A simple scheduler for Homeboy;0
+New feed item;RSS Feed;Create a note;Evernote;SourceCon to your Evernote;This is a Newsfeed from SourceCon that will be sent to your Evernote.;0
+Current condition changes to;Weather Underground;Change color;Philips Hue;Rain Lights;If it rains lights will change;0
+Every day at;Date & Time;Set ringtone volume;Android Device;When I wake up, turn ringtone volume up;Goes with a when I go to sleep, mute my ring tone recipe. Set to 50% volume at 7am by default.;0
+Sunset;Weather Underground;Dim lights;Philips Hue;Lights on at Sunset;Choose light/s and set brightness.;0
+New feed item;RSS Feed;Add a public bookmark;Delicious;Trigger: YT serviceAction: (new post / video upload) Field: Delicious (UnitedServiceLeads);Trigger: YT serviceAction: (new post / video upload) Field: Delicious (UnitedServiceLeads);0
+New article from category;Feedly;Add to daily email digest;Email Digest;VC Blog Daily Digest;A daily email digest of VC blogs;0
+New post from search;reddit;Send me an SMS;SMS;Destiny Templar Notification (XB1);Sends An SMS when someone posts to /r/FireTeams about HM Templar;0
+Every hour at;Date & Time;Update device wallpaper;Android Device;Wallpaper with the infrared image from Himawari-8 (1);If every hour at 0 minutes past the hour, then update device wallpaper with the far-east area infrared image from Himawari-8.;0
+Current temperature drops below;Weather Underground;Update device wallpaper;Android Device;Nipply check;Checks temp and updates wallpaper with grumpy cat photo if below freezing.;0
+New liked tweet by you;Twitter;Add row to spreadsheet;Google Drive;Saving favorited tweets to Google Drive sheet;Saving favorited tweets to Google Drive sheet;0
+New feed item;RSS Feed;Send me an email;Email;RSS to email: Eastern District of Louisiana - Recent Entries;Eastern District of Louisiana - Recent Entries;0
+New feed item;RSS Feed;Add a public bookmark;Delicious;Main Webite RSS to Delicious;New feed items post to Delicious;0
+Image of the day by NASA;Space;Add photo to album;iOS Photos;Get the nasa picture of the day in iOS photos;Use if you want to get the nasa day photos in your photos;0
+New final score;ESPN;Send a notification from the IFTTT app;Notifications;If new final score for the Los Angeles Clippers, then send a notification #LAC #NBA;If new final score for the Los Angeles Clippers, then send a notification #LAC #NBA;0
+New feed item;RSS Feed;Save for later;Pocket;RSS Feed to Pocket;RSS Feed to Pocket;0
+New feed item;RSS Feed;Add a public bookmark;Diigo;RSS to Diigo;New feed item post create public bookmark to Diigo;0
+New email in inbox from search;Gmail;Create a document;Google Drive;Receipts, orders, returns from gmail saved to Gdrive as a document file.;This will search your Gmail for receipts, returns, or orders. It will create a folder based on who sent the item. Then it will store each email as a document inside the folders.;0
+Disconnects from a specific WiFi network;Android Device;Set ringtone volume;Android Device;Unmute phone when disconnecting from LDS ACCESS #Mormon #LDS;Automatically unmutes ringtone when you leave church.;0
+New feed item;RSS Feed;Create a document;Google Drive;RSS TO Gdrive;New Feed item to Gdrive;0
+New email in inbox from search;Gmail;Create task;Todoist;Remind me using Amazon Gift Card;If Amazon.de Partnernet sends you a gift card use Todoist to create a reminder to use it.;0
+New liked video;YouTube;Upload file from URL;Google Drive;Trigger: YT service (IGOGSkinCare), Action: (New Video Liked), Field: GDrive (IGOGSkinCare);Trigger: YT service (IGOGSkinCare), Action: (New Video Liked), Field: GDrive (IGOGSkinCare);0
+You enter an area;Location;Mute ringtone;Android Device;Check-in | Mute-on;If I check in at work then turn my phone on vibration;0
+New feed item;RSS Feed;Create a post;Blogger;RSS Feed to Blogger (T2 a);RSS Feed to Blogger (T2 a);0
+Card assigned to me;Trello;Create task;Todoist;Trello to Todoist assigned to me;Use this to align Trello and Todoist;0
+New favorite item;Pocket;Append to a text file;Dropbox;Pocket Favourites to My Blog;If you use a Dropbox-based blogging platform and have been yearning for a page to list your favourite links, try this. Check out my own Favourite Links page: http://iiiiiiiii.in/links;0
+Today's weather report;Weather Underground;Send a notification from the IFTTT app;Notifications;Send weather report via iPhone Push every morning at 7:00am;Send weather report to your iPhone every morning at 7:00am.;0
+New public video uploaded by you;YouTube;Add a public bookmark;Delicious;YT to Delicious;YT to Delicious;0
+Breaking news for team;ESPN;Send a notification from the IFTTT app;Notifications;Get Breaking News about the San Diego Chargers on your phone.;Get the latest news about your favorite team. The San Diego Chargers!;0
+Any new check-in;Foursquare;Quick add event;Google Calendar;Add your foursquare checkin history to your Google Calendar;Since G. Calendar is searchable, this helps me track down the name of a venue I may have forgotten, and certainly is useful for maintaining a journal.;0
+New tweet by a specific user;Twitter;Make a web request;Maker Webhooks;Share tweets to telegram channel(using telegram bot);When you(or someone) tweet on twitter, tweet will share your telegram channel.1. you must create or have your telegram bot in advance.2. you must change below word. (TelegramBotToken, TelegramChannelId);0
+New public favorite;Flickr;Create a text file;Dropbox;GiftttDy 2 - Digest - Flickr Favorited Photos to Day One #giftttdy #giftttdy-digest;This Applets creates a link to photos you've favorited on Flickr. You have to be online for the photos to display in Day One. Digest Mode! Use this Applet to combine all posts for the day into one entry in Day One. This Applet is designed for use with GiftttDy - the lifestream journaling tool that captures all sorts of online activity into Day One. Go to http://giftttdy.gadgetcoma.com to learn more.;0
+Connects to a specific WiFi network;Android Device;Send a notification from the IFTTT app;Notifications;Receive a notification when your phone connects to a specific WiFi network;Receive a notification when your Android phone connects to a specific WiFi network with a reminder to turn off your phone's data.;0
+New feed item;RSS Feed;Create a text file;Dropbox;RSS Feed to Dropbox T2a(1);RSS Feed to Dropbox T2a(1);0
+Breaking news by NASA;Space;Send me an email;Email;Send NASA's Breaking News via Email;Sends an email to you with NASA's breaking news.;0
+New feed item;RSS Feed;Create a document;Google Drive;RSS Feed to Drive T3f(1);RSS Feed to Drive T3f(1);0
+New favorite item;Pocket;Send an email;Gmail;Save all favorited items from Pocket to Evernote FULL ARTICLES using ukeeper.com.;Required to register on ukeeper.com. Won't work else.;0
+Current pollen count rises above;Weather Underground;Push a note;Pushbullet;Send me a Pushbullet reminder to take allergy medicine when the pollen count rises.;"The default pollen count is set to 5; ~the threshold for ""medium"" pollen count. Set this to your personal allergy threshold. For pollen count info, check this link: https://www.pollen.com/allergy/pollen-count";0
+You exit an area;Location;Change camera mode;Withings Home;Turn on your camera when you leave home;Automatically turn on your security camera when you leave home - enjoy piece of mind. This Recipe is for iOS users.;0
+Your profile changes;Facebook;Add to weekly email digest;Email Digest;Weekly email 4 FB profile change;To catch out 'friends' who think it's funny to change you FB profile settings;0
+Button press;Button widget;Send me an email;Email;Email a map of where I parked;Never forget where you parked ever again!;0
+New Pin on your board;Pinterest;Add a public bookmark;Delicious;Pinterest to Delicious;If new Pin on Smart Watches, then add a public bookmark to Delicious;0
+Any new SMS sent;Android SMS;Add row to spreadsheet;Google Drive;Backup Sent Texts (ALP);Backup sent texts;0
+Record created or updated;Salesforce;Send me an email;Email;Salesforce case opened send me email;I wanted to monitor Salesforce cases for new cases that affect me and get an email for just those...;0
+New feed item;RSS Feed;Create a document;Google Drive;RSS To Google Drive;RSS To Google Drive;0
+New feed item;RSS Feed;Upload file from URL;Google Drive;YT to G Drive (New Video Uploaded);YT to G Drive (New Video Uploaded);0
+New feed item;RSS Feed;Send a notification from the IFTTT app;Notifications;Changes to Featured Beer from The Glass Jug (Durham, NC);Alert triggered when there is a change to the Glass Jug Featured Beers page (http://glass-jug.com/featured-beer/);0
+Your Alarm goes off;Amazon Alexa;Switch on;SmartThings;Alexa alarm wakeup light;Alarm light controlled with alexa;0
+New feed item;RSS Feed;Send me an email;Email;If a new release from TortoiseSVN is a available, than send an email. #feed #SVN #TortoiseSVN #email;If a new release of TortoiseSVN, a Windows SVN client and Explorer Extension, is available for download, than send an email with the details of the news feed.;0
+New popular article in section;The New York Times;Update Indicator;LaMetric Time;Breaking technology news for the whole team;Keep your team informed with the most popular NYTimes technology news from around the world by displaying headlines on LaMetric.;0
+New hot post in subreddit;reddit;Add file from URL;Dropbox;Reddit Wallpapers to Dropbox;Saves any new hot posts from the subreddit /r/wallpapers to your dropbox.  I use this to add new photos to by wallpaper rotation.;0
+Pollution is high;Foobot;Blink lights;Philips Hue;Flash Hue lights if pollution is high;If Foobot detects high pollution readings (global pollution > 50) then your hue lights will briefly blink.;0
+New feed item;RSS Feed;Save for later;Pocket;RSS Feed To Pocket;New Rss feed post to Pocket;0
+New feed item;RSS Feed;Save for later;Pocket;"""How I Work"" from Lifehacker to Pocket";"Saves articles from""How I Work"" series on Lifehacker to Pocket";0
+Daily activity summary;Fitbit;Push a note;Pushbullet;Daily Fitbit activity summary by Pushbullet;This gives you a pushbullet notification after the day is over. A great reminder each morning to get moving!;0
+Today's weather report;Weather Underground;Publish a new post;Sina Weibo;Publish today's weather report to Sina Weibo;Tell people the weather report on Weibo;0
+New item tagged;Pocket;Create task;Todoist;Add items tagged [checkout] to TodoIst;"Come across an awesome library? Just add it to Pocket, tag it [checkout], and IFTTT will create a new TodoIst task in your ""Check out"" project.";0
+New feed item;RSS Feed;Send me an email;Email;Sends an email when last.fm recommends a new release;"Replace ""YOUR_USERNAME"" in the feed url with *surprise* your last.fm username";0
+Any new event added;Google Calendar;Create a note;Evernote;Google Calendar History Records (Evernote);Puts everything into Evernote to back it up and create alternate searchable records.;0
+New track added to a playlist;Spotify;Save a track;Spotify;Save Discover Weekly (by Spotify) tracks to Your Music;"If a track is added to the ""Discover Weekly (by Spotify)"" playlist, then add it track to ""Your Music""";0
+Any new post in Buffer;Buffer;Save for later;Pocket;Buffer to Pocket;This Applet will save the first link I've posted from Buffer to one of my social media accounts to Pocket upon publishing.;0
+New feed item;RSS Feed;Create a page;OneNote;RSS to OneNote;RSS to OneNote;0
+New feed item;RSS Feed;Add a public bookmark;Delicious;RSS to Delicious;New feed items post to Delicious;0
+New feed item;RSS Feed;Add a public bookmark;Delicious;RSS to Delicious;New feed item post create public bookmark to Delicious;0
+Ask what's on your Shopping List;Amazon Alexa;Send a Pushover notification;Pushover;Alexa Shopping List Query Notification;Sends a notification with your Shopping List when Alexa is asked for it;0
+New feed item;RSS Feed;Create a page from a link;OneNote;RSS to OneNote Page From Link;New feed item post create page in OneNote;0
+Every day at;Date & Time;Push a note;Pushbullet;Picture of the day reminder;At 21:00 remind on all pushbullet devices.;0
+Temperature rises above;Netatmo Weather Station;Turn on;WeMo Smart Plug;If Netatmo outside detect temp > 27c then turn on network cab fans;Cool network gear if temp outside rises above 27c;0
+New feed item;RSS Feed;Create a document;Google Drive;RSS to G Drive;RSS to G Drive;0
+Today's weather report;Weather Underground;Send a notification from the IFTTT app;Notifications;Every morning iOS notify me a weather report for today;Set your preferred time and temperature scale (Fahrenheit/Celsius) and you're good to go;0
+New feed item;RSS Feed;Send me an email;Email;If there's a new movie released, email me!;"This applies to the 2014 feed from MovieWeb. If you'd like to update it for 2015, simply change the FEED URL from http://www.movieweb.com/movies/2014?do=rss tp http://www.movieweb.com/movies/2015?do=rss , etc. This will send an email to your primary email address with ""New Movie Release: """;0
+New public like;SoundCloud;Append to a document;Google Drive;Save new favs to google doc;Build a list of your favorite Soundcloud songs;0
+Current condition changes to;Weather Underground;Send me an SMS;SMS;Is it snowing outside? Send a SMS saying the fan will turn off.;LittleBits Solar Fan Contraption #8 | This LittleBits contraption requires 11 other Applets, including this one. They can be found on my profile at jbmplaysgaming on IFTTT.;0
+Any event starts;Google Calendar;Create a page;OneNote;Calendar event to OneNote;Created this to have a place to track notes and conversations on my ipad using OneNote;0
+New feed item;RSS Feed;Add a public bookmark;Delicious;RSS to Delicious;New feed item post create public bookmark to Delicious;0
+New feed item;RSS Feed;Save for later;Pocket;RSS to Pocket;RSS to Pocket;0
+Sunset;Weather Underground;Quick add event;Google Calendar;The Sunset with best greetings to Google calendar;The work is done;0
+Tomorrow's weather report;Weather Underground;Send a notification from the IFTTT app;Notifications;Get tomorrow weather forecast everyday 10PM and send notification;Get tomorrow weather forecast everyday 10PM and send notification;0
+Tomorrow's forecast calls for;Weather Underground;Send me an SMS;SMS;Send SMS when rain is forecasted;This Applet will give you a friendly reminder to bring a rain coat or umbrella if the forecast is rain.;0
+Any reminder completed;iOS Reminders;Send me an SMS;SMS;IFTTT congratulates you on completing reminders.;Just complete a reminder and you'll get a friendly text.;0
+New GIF based on keyword;Giphy;Upload file from URL;Google Drive;Collect Funny Gif Animations (Giphy to GDrive);1. Optionally change the keyword. Keywords work best if you use tags from category pages on Giphy's site.2. Optionally customize the filename.3. Optionally BUT Probably Desirable change the save location on Google Drive.;0
+New email in inbox labeled;Gmail;Append to a text file;Dropbox;Send a title of a movie I just saw => Append it to a file in dropbox;"Need to have a label ""seen-movie"" applied by a filter (or manually)";0
+New song played;Amazon Alexa;Add to weekly email digest;Email Digest;Alexa plays song, send email;Songs that Alexa plays will send me a weekly email (on Sunday) at gmail of all songs played.;0
+Any phone call missed;Android Phone Call;Create task;Todoist;Miss a call? Todoist reminds you.;This creates a todoist task if you miss a call.;0
+Tomorrow's forecast calls for;Weather Underground;Create task;Todoist;Tomorrow's forecast calls to Todoist task;Tomorrow's forecast calls to Todoist task;0
+You exit an area;Location;Unmute audio;Manything;Set my Manything camera to unmute audio when I leave home;If you are already recording in mute mode this recipe will trigger Manything to start recording audio as well (provided there is enough bandwidth);0
+Today's weather report;Weather Underground;Send me an SMS;SMS;Text me the weather every morning.;It just sends you the weather as a text;0
+End of cycle;GE Appliances Dishwasher;Post a tweet;Twitter;Post a Tweet when wash cycle ends;No more excuses! If you share a GE dishwasher and a Twitter handle with an office, then make sure everyone knows that your dishwasher cycle is complete, so that people better get on emptying the appliance! Coffee mugs aren't going to stack themselves, you know.;0
+New item archived;Pocket;Add row to spreadsheet;Google Drive;Save your archived lists in Pocket to a Google Sheet;Every time you archive an article in pocket it will be automatically added to a Sheet in Google Drive;0
+Send IFTTT an email tagged;Email;Log your weight;Fitbit;Log your weight to Fitbit via email;Send an email to trigger@Applet.ifttt.com with #fitbit in the subject, and only your weight in the body.That's it!;0
+New feed item matches;RSS Feed;Send a notification from the IFTTT app;Notifications;Androidify when New Free Steam Key is Available;Notes: Inspired by wyliam's e-mail equivalent: https://ifttt.com/recipes/191599-email-when-new-free-steam-key-is-available;0
+Send IFTTT any SMS;SMS;Add row to spreadsheet;Google Drive;SMS to Google Sheet;"The Google sheet will be created for you within an IFTTT folder.I use this as a voice food journal. I save the IFTTT phone number as ""Food Journal"" and on my iPhone ask Siri to ""text Food Journal Breakfast: food details here"".";0
+Carbon dioxide rises above;Netatmo Weather Station;Blink lights;Philips Hue;Bad air? Blink lights;This Applet uses the Netatmo weatherstation to check the air quality in the designated room (too muchCarbon Dioxide in the air). You can change the amount of CO2. When that level is reached/passed the Hue lights flash;0
+Post bookmarked by you;Medium;Create Journal entry;Day One;Medium article to Day One Journal;Like a Medium article? Save it in your journal!;0
+New feed item;RSS Feed;Send me an SMS;SMS;Send a SMS when there is a new firmware update for my #Pebble watch.;Saw one of these for Pushover, but I don't use the service so just have the messages sent to me via SMS instead.;0
+Whistle's battery is low;Whistle;Post a message to group;GroupMe;When my dog's Whistle battery is low, post to my family GroupMe;Connect Whistle to GroupMe;0
+New feed item matches;RSS Feed;Send a notification from the IFTTT app;Notifications;Notification of Google Play Free Songs;Receive a notification for the Google Play Free Song of the Day.;0
+Any new closed issue;GitHub;Post to channel;Slack;Post message to slack channel when Github issue is closed.;I find this recipe really useful as it sends a message directly to my personal channel on slack whenever an issue is closed, it helps me keep track of issues that were assigned to me particularly.;0
+Any new check-in;Foursquare;Create Journal entry;Day One;Foursquare to Day One;Foursquare check-ins are saved to a Day One journal;0
+Disconnects from a specific WiFi network;Android Device;Change security mode;Piper;Arm security system when wifi disconnects;Arm security;0
+Tomorrow's low drops below;Weather Underground;Send me an email;Email;Send e-mail notification if tomorrow's forecast calls for frost.;Send e-mail notification if tomorrow's forecast calls for frost (below 32F/0C).;0
+New item archived;Pocket;Add row to spreadsheet;Google Drive;Keep a #Google Drive log of articles you've read with #Pocket;Every article you archive in Pocket is logged into a Google Drive spreadsheet. Stores title, link, excerpt and tags (if any), sadly author name is not included.;0
+Flash button triple pressed;Misfit;Create a note;Evernote;Log a significant moment on Evernote w/ a #triplepress;Make sure you have IFTTT assigned to the #triplepress button command in the Misfit app. Need help? Check out http://bit.ly/iftttmisfitfaq;0
+Current condition changes to;Weather Underground;Send me an SMS;SMS;Text me if it's snowing.;Get a text heads up if it starts to snow;0
+Breaking news for team;ESPN;Send me an SMS;SMS;Text Final Scores for Selected NBA Team;Text the final score of each game of the NBA team of your choice.;0
+New task created with label;Todoist;Quick add event;Google Calendar;"If Todoist event created with label ""meeting"",  add event in calendar.";"If Todoist event created with label ""meeting"",  add event in calendar.";0
+New feed item;RSS Feed;Send me an email;Email;Email me when Entreprogramers publish a new video on YouTube.;Get an email when Entreprogramers post a video to their youtube service. They post a raw video of their podcast on Fridays and a more polished one on Monday.;0
+New photo post by you;Facebook;Add file from URL;Dropbox;Save Facebook picture uploads to Dropbox;Applet made during a walk-through/website review of IFTTT. Only the best websites are covered at http://thebestsites.com/.;0
+Sleep mode enabled;UP by Jawbone;Set comfort profile until next transition;ecobee;Change ecobee comfort profile on Jawbone sleep;If Jawbone sleep mode enabled, then set ecobee comfort profile to Sleep until next transition;0
+Wind speed rises above;Netatmo Weather Station;Send an email;Gmail;Send me an email when wind is perfect to go surfing;It is surfing time!;0
+New feed item;RSS Feed;Send a notification from the IFTTT app;Notifications;Notify me when a new JavaScript project is trending weekly;Be notified when new JavaScript projects are trending in the weekly GitHub feed (https://github.com/trending?l=javascript&since=weekly);0
+Any reminder completed;iOS Reminders;Add row to spreadsheet;Google Drive;Reminders to spreadsheet;Reminders to spreadsheet;0
+New song played;Amazon Alexa;Send me an SMS;SMS;Send an SMS every time a song plays on the Amazon Echo with the title and artist.;Add your phone number and amazon echo will send you a text every time a song plays with the song name and artist.;0
+Any event starts;Google Calendar;Mute ringtone;Android Device;Mute ringtone, when an event starts in your Google Calendar;Use this recipe, to not to be disturbed in meetings.;0
+Breaking news by NASA;Space;Send a notification from the IFTTT app;Notifications;NASA Breaking News Alerts;When NASA publishes a breaking news alert, push it to iOS;0
+Card added to list;Trello;Post to channel;Slack;Automatically share completed Trello tasks to a Slack channel;"Just select the board on Trello, name the list which marks tasks as ""done"", and select a channel on Slack. Share your successes with the team!";0
+New feed item;RSS Feed;Add to Buffer;Buffer;RSS to G Plus via Buffer;RSS to G Plus via Buffer;0
+New tweet from search;Twitter;Send me an email;Email;Send free Microsoft exams to email;A simple trigger to send you notification emails each time Microsoft releases a free certification exam;0
+Send IFTTT an email tagged;Email;Create a text file;Dropbox;If send an email tagged #task, then create a text file in Dropbox;1. setup script from https://github.com/delphinus35/add-task-from-dropbox2. send mail to trigger@recipe.ifttt.com with your registered mail address.3. you can create task in taskwarrior.;0
+Current condition changes to;Weather Underground;Send me an SMS;SMS;Send SMS if it starts snowing.;It doesn't snow in Western Washington all that often, so when it does I want to know!;0
+New liked tweet by you;Twitter;Add row to spreadsheet;Google Drive;Save my favorited/liked tweets to a spreadsheet;Twitter doesn't let you see a page with all tweets you liked so I created this. Also, it's a cool thing to have it all in a single spreadsheet, isn't it?;0
+Pulse - Yesterday's activity logged;Withings;Create a note;Evernote;Log Activity in Evernote;"Creates a note with yesterday's activity when completed. Places it in the notebook ""Exercise"" with the tag 'walk'. U.S. units. You'll need to create the notebook in Evernote for it to work.";0
+Current condition changes to;Weather Underground;Send me an SMS;SMS;Tell me when it's raining;Send me a text if it starts raining.;0
+New liked video;YouTube;Post a tweet with image;Twitter;If you liked a youtube video, then post a tweet!;Liking a YT video, posts a tweet.;1
+Leave IFTTT any voicemail;Phone Call (US only);Create a status message;Facebook;Facebook Dictator, create facebook posts via phome call!;Call in your facebooks post! Pure Awesomeness;1
+Any phone call missed;Android Phone Call;Send me an email;Email;Email Yourself If You Miss A Call;Sends you an email if you miss a call.;3
+Sunrise;Weather Underground;Add row to spreadsheet;Google Drive;SmartThings Log Weather - Sunrise;Log the time of sunrise each day in your SmartThings Log;0
+Every day at;Date & Time;Turn off lights;Philips Hue;Switch off all lights at midnight;"Comes in handy with a wife that forgets to switch off lights in the cellar ;) love you honey";0
+New photo taken in area;Android Photos;Change color from image;Philips Hue;Picture me, at home with Hue! (photos taken at home change your bulbs' colors);Take a picture at home and set your Hue lights to match that color. Works great with pictures of fabrics, wall colors, home decor, baked goods, selfies, etc...;0
+Sunset;Weather Underground;Change color of lights;LIFX;If the Sunset, then turn on the Lifx lights & change colour to Cool White;This is Has full customisation & works exceptional well.;0
+You enter an area;Location;Turn on lights;Philips Hue;Come home and your Phillips Hue lights turn on using your location;Your lights will turn on when you come home (enter an area using Location).;2
+New popular article in section;The New York Times;Save for later;Pocket;Save popular NYTimes articles to Pocket;This saves popular NYT articles from a specific section to your Pocket. Read them at your leisure!;0
+You exit an area;Location;Turn on WiFi;Android Device;Turn off Wifi when you leave office;Just add your office address and you're good to go!;0
+Every day at;Date & Time;Call a function;Particle;Turn off Christmas tree every day at 2:00 AM;Turn off Christmas tree every day at 2:00 AM using a Particle Internet Button and a 433 MHz transmitter;0
+Say a specific phrase;Amazon Alexa;Start activity;Harmony;Tell Alexa to start a Harmony activity;"Choose a phrase to control your Harmony Home with Alexa. When you say ""Alexa, trigger + [ your phrase]"" you can start any Harmony activity you choose below.";0
+Closed;SmartThings;Turn Off Alert;SpotCam HD;If your SmartThings device is closed, then turn off your SpotCam Alert;If your SmartThings device is closed, then turn off your SpotCam Alert;0
+New photo from anyone tagged;500px;Add file from URL;Dropbox;Save a tagged image from 500px in Dropbox;Activate and put your tag;3
+Current condition changes to;Weather Underground;Send an email;Gmail;Email yourself whenever it's snowing at Winter Park Resort, Colorado;Ever wonder if it's snowing at your favorite ski resort? Get up-to-date emails when it starts snowing at Winter Park Resort in Grand County, Colorado;0
+New in-game update;ESPN;Change color;Philips Hue;Super bowl turn lights blue;Super bowl;0
+Sunset;Weather Underground;Turn on;WIFIPLUG;Turn on your lights when the sun sets;Timer plugs set the same time everyday, using this rule you can change the lighting to work in real time with the sun;0
+Any new photo;iOS Photos;Upload a photo from URL;Facebook;Add iOS Photos to default Facebook Album.;Any photo taken with iOS Camera will upload to default Facebook album  âIFTTT Photosâ. Useful for iPads with Facebook app that doesn't have Sync Photos functionality.;1
+Any new 100% completion visit;DocSend;Send a notification from the IFTTT app;Notifications;Get a notification when anyone reads through 100% of any document;Get notified of those extra special visits where someone reads through the entirety of your document.;0
+Switched on;WeMo Insight Switch;Turn on lights;Philips Hue;Wemo insight to control hue light;Use this Applet to control living room lamp;0
+New mention of you;Twitter;Blink lights;LIFX;Blink light when mentioned on Twitter;Blinks light when you receive a mention on Twitter.;2
+New daily summary is available;RescueTime;Quick add event;Google Calendar;If new Daily Summary is available, then quick add to Google Calendar;Log a short summary of how you spent your time right on your Google Calendar. This will be logged as an all day event.;0
+Daily activity summary;Fitbit;Quick add event;Google Calendar;Fitbit Daily Activity to Google Calendar;Many of my clients use Google Calendar & have a Fitbit.We needed a simple way to log their daily activity on their Google Calendar - in a readable format.;0
+Last person leaves home;Skylark;Turn off lights;Philips Hue;When the house is empty, turn off all lights;Skylark does really well at detecting individual's home/away state, and this Recipe works instantly.;2
+Any new public photo;Flickr;Post a tweet with image;Twitter;Flickr photo to tweet;Automatically post a tweet with a photo when you upload it to Flickr.;1
+New Popular photo;500px;Update device wallpaper;Android Device;any popular photo on 500px on my mobile;allows to have series of wonderful pictures as mobile background, changing often (20-30 each day);3
+New completed task;Todoist;Add row to spreadsheet;Google Drive;Log ToDoist completed tasks in a google drive spreadsheet.;You can change to only watch certain projects.;0
+Send IFTTT an SMS tagged;SMS;Call my phone;Phone Call (US only);Send SMS #lostphone and call me Baby!;Oops! Can't find me phone, Send SMS #lostphone and call me Baby!;0
+New email in inbox from search;Gmail;Upload file from URL;Google Drive;Email with subject 'photo' upload attachment to google drive folder;This allows you to email photos directly to a google drive folder by using the subject 'photo' in your email.;3
+New tweet from search;Twitter;Add row to spreadsheet;Google Drive;Tweets with Hashtag to Google Spreadsheet;Use this recipe to keep track of various Twitter campaigns.;3
+Tomorrow's low drops below;Weather Underground;Quick add event;Google Calendar;If tomorrow's low is below freezing, remind me that night to drip the faucet;Save your pipes from freezing overnight!;0
+New item tagged;Pocket;Add row to spreadsheet;Google Drive;Saving chrome links to spreasheet;I'm using pocket (chrome extension) to save links to a shared google spreadsheet;0
+Today's weather report;Weather Underground;Send me an SMS;SMS;Send Today's weather and temps via SMS;Sends the current temp and condition, along with general daily weather, and the highs and lows for the day in Fahrenheit.;0
+Any shipping status change;Boxoh Package Tracking;Send blink event;blink(1);Blink when my package is on its way;Provide a package tracking number and a blink rule and blink will blink as soon as the shipping status changes;0
+Any new contact;iOS Contacts;Create a note;Evernote;Create a note for every new contact you add on your iPhone;Remember everyone you meet in Evernote! This Applet automatically creates a note in Evernote when you add a new contact to your iOS Contacts.;0
+New Ring Detected;Ring;Send an email;Gmail;Notify by Email;If person rings doorbell, notify via email and share link to activity;3
+New weight logged;Fitbit;Create a post;WordPress;(french) Post new Fitbit weight on Wordpress;I updated the text of the post as my blog is in french;1
+New video uploaded;Vimeo;Upload photo from URL;500px;If new video uploaded, then upload photo from URL to 500px Profile;If new video uploaded, then upload photo from URL to 500px Profile;1
+New tweet by you;Twitter;Update device wallpaper;Android Device;IF THIS (New tweet by you), THEN THAT (Update device wallpaper);Trigger service: TwitterNew tweet by you: This Trigger fires every time you post a new tweet.Action service: Android DeviceUpdate device wallpaper: This Action will update the wallpaper on your Android device from the image URL you specify.If new tweet by @graajkumaar (including retweets & @replies), then update device wallpaper.TESTED on: October 5th, 2015 â;0
+New feed item;RSS Feed;Save for later;Pocket;Save The Morning Paper (Computer Science Research) feeds to Pocket;Save The Morning Paper (Computer Science Research) feeds to Pocket to read about the recent research in CS;0
+Any new photo by you;Instagram;Post a tweet with image;Twitter;Share Instagram photos as native Twitter photos;By default, Instagram photos aren't viewable in Twitter ... they're only shared as links. This recipe grabs your Instagram photos and shares them as native photos in Twitter.;1
+You exit an area;Location;Turn off lights;Philips Hue;Location Hue Turn off lights when you leave;Surprised this rule didn't exist for android. Now when you leave, your lights will always turn off =);2
+New photo in your folder;Dropbox;Upload public photo from URL;Flickr;If there is new Photo in Camera Upload folder of Dropbox, then upload public photos to Flickr;This recipe will upload all new public photos from camera upload folder in your Dropbox to Flickr;1
+You are tagged in a photo;Facebook;Add file from URL;OneDrive;Tagged on Facebook download photo to onedrive;This receipt catch any photo that you are tagged on facebook and copy to your onedrive;3
+Current pollen count rises above;Weather Underground;Send a notification from the IFTTT app;Notifications;Receive a notification if there is a high pollen count in your area;Do you also have environmental allergies? Get notified in advance.Average pollen count is between 4.9-7.2;0
+New item archived;Pocket;Append to note;Evernote;Record Archived Pocket Items in Evernote;This will append the title, image, excerpt, url and datetime when any item from Pocket gets archived.;0
+New photo post by you with hashtag;Facebook;Post a tweet with image;Twitter;If new photo post with hashtag, then post a tweet with image and no hashtag to Twitter;DON'T add hashtag back in! By not posting the hashtag to twitter this time, you can use same hashtag to copy posts FROM twitter to Facebook, etc.;1
+New SMS received matches search;Android SMS;Set ringtone volume;Android Device;SMS to Mute My Phone;SMS to Mute My Phone;3
+Send IFTTT an email tagged;Email;Quick add event;Google Calendar;Quick Add events to Google Calendar by putting details in body;Simply send an email with #cal in the subject to trigger@Applet.ifttt.com, and the event details in the body (e.g. dinner tonight 8 pm @ mcdonalds w/ bf ) and let Google Calendar's parsing engine work its magic.;0
+New photo by you with specific hashtag;Instagram;Post a tweet with image;Twitter;Instagram to Twitter with tweetig hashtag;post IG photos to Twitter with #tweetig hashtag including url in Twitter for the IG post.;1
+New follower;Twitter;Add row to spreadsheet;Google Drive;Log new Twitter followers to Google Spreadsheet;If new follower for your Twitter account, then add row to spreadsheet in your Google Drive;3
+Sunrise;Weather Underground;Create a text file;Dropbox;Log Sunrise Weather Conditions in #dropbox;If sunrise, then create a text file in Dropbox of Weather Conditions for the day.;0
+Any new email in inbox;Gmail;Turn on light;LightwaveRF Lighting;When I get a new GMail, turn on a LightwaveRF Dimmer;Turn a LightwaveRF Light of your choice on when a new email is received in the GMail inbox.;2
+New email in inbox from;Gmail;Create a note;Evernote;If Gmail from myself create Evernote;If Gmail from myself create Evernote;0
+New tweet from search;Twitter;Send a notification from the IFTTT app;Notifications;Notification of Twitter hashtag;Want to be notified when a specific hashtag is mentioned on Twitter?;3
+Every day at;Date & Time;Turn off lights;Philips Hue;Turn lights off at 11 pm;Time to go to bed;2
+You exit an area;Location;Set ringtone volume;Android Device;When I leave school, set ringer volume back to 100%;No more trying to remember to turn the ringer back on...;0
+You exit an area;Location;Turn off lights;Philips Hue;Last out, turn off the lights;Turn out the lights when you leave an area;2
+New photo by you with specific hashtag;Instagram;Log a meal;UP by Jawbone;Instagram a meal, log it to UP;"If I take a photo in Instagram and add ""#upmeal"", log it in UP by Jawbone's timeline.";1
+Receive a web request;Maker Webhooks;Add row to spreadsheet;Google Drive;Raspberry Pi Speedtest to Google Table;Save Speedtest data from raspberry pi to google Table.German: https://www.iamyourfather.de/dsl-speedtest-mit-dem-raspberry-piEnglish: http://makezine.com/projects/send-ticket-isp-when-your-internet-drops/;0
+Any new photo by you;Instagram;Post a tweet with image;Twitter;Post Instagram Photos to Twitter;Since Twitter doesn't show previews for Instagram photos anymore, this allows you to post your Instagram photo to two places at once, in the native format that Twitter prefers.;1
+New post from search;reddit;Send me an email;Email;E-mail me when my stuff is shared on Reddit;Great for reporters/editors/bloggers who might want to participate in conversations around their work.;0
+New photo in folder;TeamSnap;Upload a photo from URL;Facebook;Share your TeamSnap photos to Facebook;When you post a photo on TeamSnap in a folder it will be automatically uploaded to a Facebook album.;1
+Daily activity summary;Fitbit;Add row to spreadsheet;Google Drive;Fitbit to Google Spread sheet;This is to capture my fitbit data;0
+Send IFTTT any SMS;SMS;Create a status message;Facebook;Send Facebook status updates through sms text;For those relying on wifi for internet but not for sms texting (no data plan), this lets you send your status updates through text.;1
+Any new post in subreddit;reddit;Send me an SMS;SMS;Get a text any time a new post is submitted to /r/all on reddit.;Get a text anytime that a post is made on a subreddit that is included in /r/all. Prepare to be text bombed, if you get charged for incoming texts and/or have a limit of texts that you receive, this isn't a good idea.Q: Why did I make this? A: Why not?;0
+Send IFTTT an SMS tagged;SMS;Turn on;WeMo Light Switch;Automatically turn on the lights when I arrive home;Use Trigger App on Android, Set up Geo fence trigger on house,Automatically sends SMS to IFTTT;2
+Event from search starts;Google Calendar;Security mode;Somfy Protect;Automatically arm your security system during certain events in your calendar;"Strategically place events in your personal Google Calendar named ""armed"" to schedule your alarm system to automatically arm itself.";0
+Presence detected;SmartThings;Turn on;WeMo Light Switch;If iPhone presence detected, then turn on All Switches;When you arrive your MeMo lights are turned on;2
+New completed task;Todoist;Append to note;Evernote;Automatically Generate Your Status Report;Automatically send completed tasks to Evernote - make end-of-week review simple and you have a status report!;0
+New track added to a playlist;Spotify;Add to weekly email digest;Email Digest;Save my Discover Weekly playlist tracks in a weekly email digest.;Think you'll miss the chance to listen to the tracks Spotify curates for you every week? Save them in a weekly email so you can go back and listen to them in the future.;0
