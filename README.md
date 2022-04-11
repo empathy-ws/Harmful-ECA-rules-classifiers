@@ -96,7 +96,7 @@ Dataset of manually labeled IFTTT applets obtained by removing the inconsistent 
 
 # Models Information
 
-We considered two types of classifiers. The first, based on artificial neural networks (ANNs), treats discrete features (TriggerTitle, TriggerChannelTitle, ActionTitle, and ActionChannelTitle) as numerical values, using the label encoder technique, and the
+We considered two types of classifiers. The first, based on Artificial Neural Networks, treats discrete features (TriggerTitle, TriggerChannelTitle, ActionTitle, and ActionChannelTitle) as numerical values, using the label encoder technique, and the
 continuous features (Title and Desc) as textual values, using a word embedding technique, namely Global Vectors for Word Representation. The second is based on BERT, a pre-training model of natural language processing, which uses deep bidirectional transformers to train a language representation model through a large number of data. For this model, all features were treated as text.
 
 # Relevant Papers
