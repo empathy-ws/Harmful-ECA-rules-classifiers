@@ -46,17 +46,17 @@ Dataset of IFTTT applets labeled with respect to security and privacy risks by u
 #### Number of instances: 
 76741
 
-## Test set: 
+## TS_2k: 
 Dataset of manually labeled IFTTT applets. 
 #### Number of instances: 
 2473
 
-## Random set:
+## TS_500:
 Dataset of manually labeled IFTTT applets obtained by randomly selecting applets among those discarded by the ensemble approach (i.e., the applets that obtained conflicting predictions by the three semi-supervised techniques).
 #### Number of instances:
 500
 
-## Subset random set:
+## TS_425:
 Dataset of manually labeled IFTTT applets obtained by removing the inconsistent applets from the random set.
 #### Number of instances:
 425
