@@ -6,7 +6,7 @@ This material comprises the dataset employed to train the classification models 
 
 <p align="center">
   <img width="300" height="300"
-    src="https://github.com/empathy-ws/Risky-IFTTT-applets-classifiers/blob/main/lockIFTTT.png"
+    src="https://github.com/empathy-ws/Risky-IFTTT-applets-classifiers/blob/main/lockTAP.jpg"
   >
 </p>
 
