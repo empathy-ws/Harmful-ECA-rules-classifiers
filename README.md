@@ -5,7 +5,7 @@ This repository contains the supplementary material for the paper "Identifying S
 This material comprises the dataset employed to train the classification models and the source codes useful for the repeatability of the experiments.
 
 <p align="center">
-  <img width="550" height="700"
+  <img width="350" height="500"
     src="https://github.com/empathy-ws/Risky-IFTTT-applets-classifiers/blob/main/lockTAP.png"
   >
 </p>
