@@ -1,6 +1,6 @@
-# Risky-IFTTT-applets-classifiers
+# Risky-ECA-rules-classifiers
 
-This repository contains the supplementary material for the paper "NLP-based Approaches for Identifying Security and Privacy Risks of IFTTT Applets" submitted to Future Generation Computer Systems.
+This repository contains the supplementary material for the paper "Identifying Security and Privacy Violation Rules in Trigger-Action IoT Platforms with NLP Models" submitted to IEEE Internet of Things Journal.
 
 This material comprises the dataset employed to train the classification models and the source codes useful for the repeatability of the experiments.
 
