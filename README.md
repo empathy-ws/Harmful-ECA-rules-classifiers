@@ -1,4 +1,4 @@
-# Risky-ECA-rules-classifiers
+# Harmful-ECA-rules-classifiers
 
 This repository contains the supplementary material for the paper "Identifying Security and Privacy Violation Rules in Trigger-Action IoT Platforms with NLP Models" submitted to IEEE Internet of Things Journal.
 
