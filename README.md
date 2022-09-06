@@ -8,7 +8,8 @@ This material comprises the dataset employed to train the classification models 
 
 ## Download
 The dataset can be downloaded by sending an email to one of the authors.<br>
-This dataset should be used for academic non-commercial purposes only.<br>Any other usage is prohibited according to the IFTTT Terms of Service
+This dataset should be used for academic non-commercial purposes only. Any other usage is prohibited according to the IFTTT Terms of Service. <br>
+
 
 <p align="center">
   <img width="350" height="500"
