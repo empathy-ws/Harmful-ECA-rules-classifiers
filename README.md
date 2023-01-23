@@ -108,3 +108,15 @@ We considered two types of classifiers. The first, based on Artificial Neural Ne
 # Relevant Papers
 
 [1] Mi, X., Qian, F., Zhang, Y., Wang, X., 2017. An empirical characterization of IFTTT: ecosystem, usage, and performance, in: Proceedings of the Internet Measurement Conference, ACM. pp. 398–404
+
+# Citation 
+
+```
+@article{breve2022identifying,
+  title={Identifying Security and Privacy Violation Rules in Trigger-Action IoT Platforms with NLP Models},
+  author={Breve, Bernardo and Cimino, Gaetano and Deufemia, Vincenzo},
+  journal={IEEE Internet of Things Journal},
+  year={2022},
+  publisher={IEEE}
+}
+```
